@@ -39,7 +39,6 @@ TimeHug est une application web/mobile qui agit comme un **coach de vie intellig
 ### Prérequis
 - Node.js (v18+)
 - PostgreSQL
-- (si Laravel) PHP 8.2+, Composer
 
 ### Installation (Next.js + Node.js version)
 ```bash
